@@ -11,3 +11,8 @@ crear un modulo --> ng g module pages/home -m app
 
 crear una pagina --> ng g component pages/home -m pages/home
 
+correr por primera vez un proyecto --> ng serve
+
+npm install 
+npm star
+
