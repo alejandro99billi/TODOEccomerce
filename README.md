@@ -16,3 +16,4 @@ correr por primera vez un proyecto --> ng serve
 npm install 
 npm star
 
+Nota--> xq no puedo usar el modulo de revisar
