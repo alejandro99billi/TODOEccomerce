@@ -17,3 +17,4 @@ npm install
 npm star
 
 Nota--> xq no puedo usar el modulo de revisar
+Prima cosa de hacer la home y la devision del proyecto
