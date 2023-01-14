@@ -5,6 +5,8 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { ItemsComponent } from './items/items.component';
 import { ProductsModule } from './products/products.module';
+import { HomeModule } from './pages/home/home.module';
+import { CustomerModule } from './pages/customer/customer.module';
 
 
 
@@ -15,9 +17,11 @@ import { ProductsModule } from './products/products.module';
     
   ],
   imports: [
-    BrowserModule,
-    AppRoutingModule,
+   BrowserModule,
+   AppRoutingModule,
    ProductsModule,
+   HomeModule,
+   CustomerModule,
    
   ],
   providers: [],
