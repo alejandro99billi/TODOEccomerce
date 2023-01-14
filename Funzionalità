@@ -1,0 +1,19 @@
+Documentazione guida. 
+0)git ignore??
+1) Api Rest che ritorne una lista di prodotti e la sua imagine in base 64 
+2) trovere una libreria di imagine per i prodotti -->alejandro
+3)Creazione dal Json de consumir:
+{
+  productId:[],
+  productImage["base64"],
+  productName["Iphone14"],
+  desription:[],
+  }
+  
+ 4)posibilità di aggiungere un prodotto al carello
+ 5)devi avere un acconunt--> dobbiamo gestire una regitrazione e una creazione del account(nome utente e password- senza posibilità di ricuperarle) 
+ 6)pagamenti --> prodotto viene assegnato il prezzo --> metodo di pagamento --> carta di credito --> (simulazione che sia giusto)--> si paga 
+ 7)conferma di pagamento
+ 8)data di emissione del prodotto--> sezione i meie ordini(vedi l'elenco degli ordini pagati e le sue date di consegna
+ 
+ (Requsiti funzionali e non funzionale)
